@@ -26,7 +26,7 @@
 const ishita: Developer = {
   name      : "Ishita Dutta",
   roles     : ["Full Stack Dev", "AI/ML Engineer", "GenAI Specialist"],
-  education : "B.Tech CSBS @ Heritage Institute of Technology · CGPA 8.68",
+  education : "B.Tech @ Heritage Institute of Technology ·",
   location  : "Kolkata, West Bengal 🇮🇳",
   building  : "AI-powered apps that actually slap 🔥",
   published : "Springer Nature — ICAA 2026 · Emotion-Aware Movie Recommendation",
@@ -92,31 +92,6 @@ const ishita: Developer = {
 
 ---
 
-## `{ featured_projects }` 🚀
-
-<div align="center">
-
-```
-┌─────────────────────────────────────────────────────────────────────┐
-│  🎓  AI-Powered Education Platform                                  │
-│      Real-time video, chat, collaborative whiteboard,               │
-│      AI quizzes & analytics dashboard                               │
-│      Stack: MERN · WebRTC · Generative AI · REST API               │
-├─────────────────────────────────────────────────────────────────────┤
-│  💸  AI Finance Tracker & Planner                                   │
-│      Auto-extracts Gmail expenses via OAuth 2.0                     │
-│      + conversational AI for smart budgeting                        │
-│      Stack: MERN · Gmail OAuth · Conversational AI                 │
-├─────────────────────────────────────────────────────────────────────┤
-│  🎨  Responsive Animated Web UI Portfolio                           │
-│      Production-grade, mobile-first React UIs                       │
-│      with smooth CSS animations & cross-browser support             │
-│      Stack: React.js · HTML5 · CSS3 · JavaScript                   │
-└─────────────────────────────────────────────────────────────────────┘
-```
-
-</div>
-
 ---
 
 ## `{ achievements }` 🏆
@@ -130,9 +105,9 @@ const ishita: Developer = {
   ║   📖  Springer Nature · ICAA 2026 ....... PUBLISHED      ║
   ║   🔮  Oracle GenAI Professional ......... CERTIFIED      ║
   ║   ☁️  Google Cloud · GenAI & LLMs ....... CERTIFIED      ║
-  ║   🛡️  Deloitte Cyber Simulation ......... COMPLETED      ║
-  ║   🌌  Aagnirva Space Internship ......... 2025           ║
   ║                                                          ║
+  ║                                                          ║
+  ║                                                         
   ╚══════════════════════════════════════════════════════════╝
 ```
 
@@ -149,7 +124,7 @@ while (alive) {
   eat();
   code();            // always
   learnGenAI();      // obsessed rn
-  danceKathak();     // when the deadline isn't today
+       // when the deadline isn't today
   sing();            // certified, not just vibes
   drawSomething();   // fine art era 🎨
   sleep();           // optional
