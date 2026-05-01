@@ -1,8 +1,8 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0A66C2,50:1E90FF,100:00BFFF&height=200&section=header&text=Ishita%20Dutta&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=55&stroke=1E90FF&strokeWidth=2&desc=Code%20%7C%20Circuits%20%7C%20AI&descAlignY=75&descAlign=50" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Ishita%20Dutta&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=55&stroke=00FFB3&strokeWidth=2" width="100%"/>
 </div>
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=00FFB3&center=true&vCenter=true&multiline=false&repeat=true&width=680&height=50&lines=Full+Stack+Developer+%F0%9F%9A%80;AI+%2F+ML+Engineer+%F0%9F%A4%96;Generative+AI+Specialist+%E2%9C%A8;SIH+2025+National+Winner+%F0%9F%8F%86;Springer+Nature+Published+Researcher+%F0%9F%93%96" alt="Typing SVG" />
 
 <div align="center">
 
